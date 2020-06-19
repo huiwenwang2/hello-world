@@ -25,7 +25,7 @@ public class HelloWorld2<E> {
 	@Override
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
-		builder.append("HelloWorld2 [t1=");
+		builder.append("HelloWorld2 [t1= ");
 		builder.append(t1);
 		builder.append(", t2=");
 		builder.append(t2);
