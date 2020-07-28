@@ -91,6 +91,8 @@ public class HelloWorld2<E> {
 		int i = 5;
 		int a = 10;
 		int j = 10;
+		String x = "Test";
+		System.out.println(x);
 		System.out.println("Hello world!");
 		System.out.println("Hello world 2");
 	}
