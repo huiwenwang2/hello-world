@@ -1,0 +1,23 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jul 28 2020 18:49:14 GMT-0400 (Eastern Daylight Time)
+------------------------------------------------------
+
+Modified files:
+* src/HelloWorld/HelloWorld2.java
+
+
+Created files:
+* .autogit/autogit.json
+* 1.0/.editorconfig
+* 1.0/.gitattributes
+* 1.0/.gitignore
+* 1.0/.travis.yml
+* 1.0/pom.xml
+* 1.0/src/main/java/1/0/App.java
+* 1.0/src/test/java/1/0/AppTest.java
+
+
+Deleted files:
+
+
+Renamed files:
